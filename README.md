@@ -5,7 +5,7 @@ O modelo C4 é uma abordagem para a modelagem de arquitetura de software que vis
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-C4%20Model-blue)
 ![IDE](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue)
 ![Plugin](https://img.shields.io/badge/Plugin-PlantUML-blue)
-![Tamanho do Repositório](https://img.shields.io/github/repo-size/samorysundjata/C4)
+![GitHub repo size](https://img.shields.io/github/repo-size/samorysundjata/C4?label=Repo%20Size&color=blue&style=flat&suffix=KB)
 
 ## Nível 1: Contexto
 
