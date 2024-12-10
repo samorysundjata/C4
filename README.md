@@ -2,6 +2,11 @@
 
 O modelo C4 é uma abordagem para a modelagem de arquitetura de software que visa fornecer uma visão clara e concisa da arquitetura de um sistema. Ele é composto por quatro níveis de abstração: Contexto, Contêiner, Componente e Código.
 
+![Tecnologias](https://img.shields.io/badge/Tecnologias-C4%20Model-blue)
+![IDE](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue)
+![Plugin](https://img.shields.io/badge/Plugin-PlantUML-blue)
+![Tamanho do Repositório](https://img.shields.io/github/repo-size/samorysundjata/C4)
+
 ## Nível 1: Contexto
 
 No nível de contexto, descrevemos a visão geral do sistema, identificando os atores externos e os principais sistemas com os quais o sistema em questão interage. Isso nos ajuda a entender o ambiente no qual o sistema está inserido.
